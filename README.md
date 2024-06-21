@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **E-comerce**
 
-- 🤝 I’m looking for help with **Transport booking**
+- 🤝 I’m looking for help with **Transport booking app**
 
 - 📫 How to reach me **tanishkajindal693@gmail.com**
 
